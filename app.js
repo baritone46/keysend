@@ -20,7 +20,7 @@ function keypress_ivent(e) {
               num = Math.floor(Math.random() * (m + 1 - n)) + n;
               console.log(num);
           };
-        getRandam(0, 26);
+        getRandam(0, 25);
         $mondai.innerHTML = alph.substring(num,num + 1);
        } else {
         $hantei.classList.remove('ok');
