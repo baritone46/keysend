@@ -3,7 +3,6 @@
     margin-bottom: 10px;
     margin-right: 2px;
 }
-
 .mondai {
     font-size: 24px;
     color:white;
@@ -18,6 +17,11 @@
     text-decoration: none;
     border-radius: 10px 10px 10px 10px;
 }
+.yoko {
+    display: flex;
+    margin-top: 0px;
+    margin-bottom: 40px;
+}
 .kaitou {
     font-size: 24px;
     color:black;
@@ -27,7 +31,7 @@
     text-align:center;
     margin-top: 0px;
     margin-bottom: 0px;
-    margin-right: 2px;
+    margin-right: 10px;
     padding: 10px 10px;
     text-decoration: none;
     border-radius: 10px 10px 10px 10px;
@@ -37,4 +41,47 @@
 }
 .ng {
     color:blue;
+}
+.kekka {
+    font-size: 16px;
+    color:black;
+    background:yellow;
+    width: 400px;
+    height: 100px;
+    margin-top: 0px;
+    margin-bottom: 40px;
+    margin-right: 2px;
+    padding: 10px 10px;
+    text-decoration: none;
+    border-radius: 10px 10px 10px 10px;
+}
+.haichi {
+    display: flex;
+    padding: 0px 0px 0px 0px;
+}
+.key {
+    font-size: 14px;
+    background:rgb(206, 204, 204);
+    width: 40px;
+    height: 40px;
+    border-radius: 5px 5px 5px 5px;
+    margin-top: 4px;
+    margin-bottom: 0px;
+    margin-right: 4px;
+    text-align:center;
+}
+.yohaku {
+    color: white;
+    background:white;
+    width: 10px;
+    height: 40px;
+    border-radius: 5px 5px 5px 5px;
+    margin-top: 4px;
+    margin-bottom: 0px;
+    margin-right: 4px;
+    text-align:center;
+}
+.kotae {
+    color: #fff;
+    background-color: red;
 }
