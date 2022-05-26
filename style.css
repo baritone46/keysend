@@ -3,6 +3,11 @@
     margin-bottom: 10px;
     margin-right: 2px;
 }
+.yoko {
+    display: flex;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
 .mondai {
     font-size: 24px;
     color:white;
@@ -11,33 +16,28 @@
     height: 40px;
     text-align:center;
     margin-top: 0px;
-    margin-bottom: 40px;
-    margin-right: 2px;
+    margin-bottom: 10px;
+    margin-right: 40px;
     padding: 10px 10px;
     text-decoration: none;
     border-radius: 10px 10px 10px 10px;
 }
-.yoko {
-    display: flex;
-    margin-top: 0px;
-    margin-bottom: 40px;
-}
 .kaitou {
     font-size: 24px;
     color:black;
-    background:pink;
+    background:orange;
     width: 100px;
     height: 40px;
     text-align:center;
     margin-top: 0px;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
     margin-right: 10px;
     padding: 10px 10px;
     text-decoration: none;
     border-radius: 10px 10px 10px 10px;
 }
 .ok {
-    color:red;
+    color:orange;
 }
 .ng {
     color:blue;
